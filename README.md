@@ -1,0 +1,4 @@
+- 👋 Hi, I’m darkzed
+- 👀 I’m interested in front and back end developer
+- 🌱 I’m currently learning fluter
+- 💞️ I’m looking to collaborate on my computer
